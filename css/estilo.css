@@ -1,0 +1,23 @@
+div{
+    text-align: center;
+    margin-left: 160px;
+    margin-top: 12%;
+    margin-right: 90px;
+    margin-bottom: auto;
+    float: left;
+    
+}
+div.col-md-6{
+	margin-right: 90px;
+    margin-left: 50px;
+}  
+div.A{
+    margin-top: 20px;
+    margin-left: 250px;
+}
+img{
+    margin-left: 6%;
+    width: 500px;
+    margin-right: 30px;
+
+}
